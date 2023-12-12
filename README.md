@@ -38,7 +38,7 @@ Execute the program using runserver command.
  <th> Thursday </th>
  <th> Friday </th>
 </tr>
-Firefox https://github.com/hasinimarella/timetable
+Firefox https://github.com/prathyusharavi/timetable
 1 of 3 22/11/23, 21:10
 <tr align="center">
  <th bgcolor="yellow"> 8-10 </th>
@@ -92,7 +92,7 @@ Firefox https://github.com/hasinimarella/timetable
 <td> German Basic (GER) </td>
 </tr>
 <tr align="center">
-Firefox https://github.com/hasinimarella/timetable
+Firefox https://github.com/yenugantiprathyusha/timetable
 2 of 3 22/11/23, 21:10
 OUPUT
 RESULT
