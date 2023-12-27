@@ -23,6 +23,7 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
+```
 <html>
  <title> TIME TABLE </title>
  <body>
@@ -118,7 +119,7 @@ Thus the slot-timetable is successfully executed
  </center>
  </body>
 </html>
-  
+```
 ## OUTPUT
 SLOT TIMETABLE-Y.PRATHYUSHA(23009045)
 ![image](https://github.com/prathyusharavi/slot/assets/147474424/6647de72-ae24-4259-b161-5d0074495707)
